@@ -165,6 +165,25 @@
         "ecology",
         "environmental-science"
       ]
+    },
+    {
+      "name": "data-006",
+      "tasks": [
+        "object-detection",
+        "segmentation"
+      ],
+      "domains": [
+        "pet-dataset"
+      ],
+      "url": "https://github.com/MattyB95/ConnectionsWorkshop_Team5/blob/main/.scivision/data.yml",
+      "format": "image",
+      "labels_provided": true,
+      "institution": [
+        "oxford-iiit"
+      ],
+      "tags": [
+        "example-images"
+      ]
     }
   ]
 }
