@@ -167,7 +167,7 @@
       ]
     },
     {
-      "name": "data-006",
+      "name": "data-007",
       "tasks": [
         "object-detection",
         "segmentation"
