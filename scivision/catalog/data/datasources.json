@@ -169,6 +169,7 @@
     {
       "name": "data-007",
       "tasks": [
+        "classification",
         "object-detection",
         "segmentation"
       ],
